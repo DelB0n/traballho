@@ -3,12 +3,12 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Meu Site de Assinatura</title>
+    <title>Conteúdo Exclusivo</title>
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
     <header>
-        <h1>Bem-vindo ao Meu Site de Assinatura</h1>
+        <h1>Conteúdo Exclusivo</h1>
         <nav>
             <ul>
                 <li><a href="index.html">Início</a></li>
@@ -19,16 +19,8 @@
     </header>
     <main>
         <section>
-            <h2>Sobre o Site</h2>
-            <p>Este é um site de assinatura onde você pode acessar conteúdo exclusivo ao assinar nossos planos.</p>
-        </section>
-        <section>
-            <h2>Vantagens da Assinatura</h2>
-            <ul>
-                <li>Acesso a conteúdo exclusivo.</li>
-                <li>Atualizações regulares.</li>
-                <li>Suporte dedicado.</li>
-            </ul>
+            <h2>Bem-vindo ao Conteúdo Exclusivo!</h2>
+            <p>Esta página é acessível apenas para assinantes. Aqui você encontrará artigos, vídeos e outros materiais exclusivos.</p>
         </section>
     </main>
     <footer>
